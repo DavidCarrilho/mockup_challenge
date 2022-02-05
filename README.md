@@ -1,6 +1,6 @@
 # mockup_challenge
 
-A Flutter project of mockup challenge.
+A Flutter project of a Flutterando masterclass mockup challenge
 
 <p float="left">
   <img src="screenshot/screenshot-tinder.png" width="200">
