@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'pages/page3s.dart';
+import 'src/pages/pages.dart';
+
+
 
 class AppWidget extends StatelessWidget {
   const AppWidget({Key? key}) : super(key: key);

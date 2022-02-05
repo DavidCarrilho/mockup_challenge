@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../src/core/constant.dart';
+import '../core/constant.dart';
+
 
 class TinderPage extends StatelessWidget {
   const TinderPage({Key? key}) : super(key: key);

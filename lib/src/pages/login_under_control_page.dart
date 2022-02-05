@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../src/core/constant.dart';
+import '../core/constant.dart';
 
 class LoginUnderControlPage extends StatelessWidget {
   const LoginUnderControlPage({Key? key}) : super(key: key);
