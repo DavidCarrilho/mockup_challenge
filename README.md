@@ -1,6 +1,6 @@
 # mockup_challenge
 
-A new Flutter project.
+A Flutter project of mockup challenge.
 
 ## Getting Started
 
